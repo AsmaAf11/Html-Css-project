@@ -1,0 +1,64 @@
+/*1st paragraph style*/
+p1{
+    font-size: 20px;
+    text-align: center;
+}
+
+
+hr {
+    border:none;
+    border-top:5px dotted rgb(71, 67, 67);
+    height: 1px;
+    width:100px;
+  }
+  /*for the dotted line*/
+  .Personalinfo tr,td{
+      font-size: 13px;
+      font-weight: normal;
+     border: 2px solid rgb(79, 136, 92);
+     padding: 0px 100px 0px 100px;
+     text-align: center;
+    /*table style*/
+  }
+  
+#content{
+    text-align: center;
+    font-family:arial;
+}
+div {
+  text-align: center;
+  
+    
+}
+button {
+    /*button style*/
+    background-color:red;
+    color:white;
+    border-radius:  5px;
+    padding: 10px;
+}
+.mydiv{
+    
+    margin-top: 200px;
+    padding-top: 20px;
+    text-align: center;
+    height:80px;
+    width: 1300px;
+    font-size: 20px;
+    
+    
+}
+body{
+  background-image:url(pg2.jpeg)
+
+}
+
+/*1nd table style*/
+table.Personalinfo2 tr,td{
+    font-size: 13px;
+    font-weight: normal;
+   border: 2px solid rgb(79, 136, 92);
+   padding: 10px 100px 10px 100px;
+   text-align: center;
+
+
